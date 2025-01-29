@@ -1,4 +1,4 @@
-# PNPM workspaces example for monorepos Just for commit
+# PNPM workspaces example for monorepos
 
 Testing pnpm monorepo
 
